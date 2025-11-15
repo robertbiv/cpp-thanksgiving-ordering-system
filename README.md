@@ -1,5 +1,4 @@
-# C++ Sorting Algorithm Visualizer
-
+# C++ Thanksgiving Day Smorgasbord Ordering System
 ## Overview
 
 This repository contains C++ programming projects and exercises.
